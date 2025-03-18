@@ -39,23 +39,6 @@ python app.py
 5. "Dönüştür" butonuna tıklayın
 6. Dönüştürme tamamlandığında, EPUB dosyası seçilen klasörde oluşturulacaktır
 
-### EPUB Okuyucu
-
-#### EPUB Dosyasını Okuma
-
-1. "EPUB Okuyucu" sekmesine geçin
-2. "EPUB Dosyası Aç" butonuna tıklayın
-3. Okumak istediğiniz EPUB dosyasını seçin
-4. Açılan EPUB okuyucusu ile kitabı okuyabilirsiniz
-
-##### Okuyucu Özellikleri:
-
-- İçindekiler tablosu ile bölümler arasında gezinme
-- Önceki/Sonraki bölüm butonlarıyla gezinme
-- Yakınlaştırma/Uzaklaştırma fonksiyonları
-- Metin formatını orijinal düzeninde görüntüleme
-- Resimleri görüntüleme
-
 ## Dönüştürme Özellikleri
 
 ### PDF → EPUB
