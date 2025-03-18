@@ -1,0 +1,7 @@
+ebooklib==0.17.1
+PyPDF2==3.0.1
+python-docx==0.8.11
+Pillow==10.0.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+PyQt5==5.15.9 
